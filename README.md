@@ -29,5 +29,5 @@
 	- [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) [[certificate]](https://www.coursera.org/account/accomplishments/records/XHAF3HX5W3NE)
 
 ## Other
-- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)[[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
-- [SQL](https://stepik.org/course/63054/syllabus)[[certificate]](https://stepik.org/cert/832923)
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
+- [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
