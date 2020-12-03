@@ -27,6 +27,7 @@
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment)
 - Improve Your English Communication Skills
 	- [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) [[certificate]](https://www.coursera.org/account/accomplishments/records/XHAF3HX5W3NE)
+	- [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome) [[certificate]](https://www.coursera.org/account/accomplishments/verify/9JT2N779CXXC)
 
 ## Other
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
