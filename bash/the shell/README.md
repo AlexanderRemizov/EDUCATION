@@ -1,3 +1,4 @@
+<ol>
 For this course, you need to be using a Unix shell like Bash or ZSH. If you
 are on Linux or macOS, you don’t have to do anything special. If you are on
 Windows, you need to make sure you are not running cmd.exe or PowerShell;
@@ -39,4 +40,30 @@ information.</li>
 directory.</li>
   <li>Write a command that reads out your laptop battery’s power level or your
 desktop machine’s CPU temperature from <code class="language-plaintext highlighter-rouge">/sys</code>. Note: if you’re a macOS
-user, your OS doesn’t have sysfs, so you can skip this exercise.
+    user, your OS doesn’t have sysfs, so you can skip this exercise. </ol>
+
+## Solution
+
+```bash
+# 1
+AMBS:the shell DOUBLEU$ mkdir missing
+# 2
+AMBS:the shell DOUBLEU$ man touch
+# 3
+AMBS:the shell DOUBLEU$ cd missing
+AMBS:missing DOUBLEU$ touch semester
+# 4
+AMBS:missing DOUBLEU$ nano semester 
+# 5
+AMBS:missing DOUBLEU$ ./semester
+# 6 
+AMBS:missing DOUBLEU$ sh semester
+# 7 
+AMBS:missing DOUBLEU$ man chmod
+# 8
+AMBS:missing DOUBLEU$ chmod +x semester
+AMBS:missing DOUBLEU$ ./semester
+# 9
+AMBS:missing DOUBLEU$ date -r semester > last-modified.txt 
+```
+
