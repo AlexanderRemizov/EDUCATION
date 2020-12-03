@@ -44,7 +44,7 @@ desktop machine’s CPU temperature from <code class="language-plaintext highlig
 
 ## Solution
 
-```bash
+```console
 # 1
 AMBS:the shell DOUBLEU$ mkdir missing
 # 2
