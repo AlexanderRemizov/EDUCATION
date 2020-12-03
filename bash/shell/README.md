@@ -44,13 +44,13 @@ desktop machine’s CPU temperature from <code class="language-plaintext highlig
 
 ## Solution
 
-```console
+```bash
 # 1
-AMBS:the shell DOUBLEU$ mkdir missing
+AMBS:shell DOUBLEU$ mkdir missing
 # 2
-AMBS:the shell DOUBLEU$ man touch
+AMBS:shell DOUBLEU$ man touch
 # 3
-AMBS:the shell DOUBLEU$ cd missing
+AMBS:shell DOUBLEU$ cd missing
 AMBS:missing DOUBLEU$ touch semester
 # 4
 AMBS:missing DOUBLEU$ nano semester 
@@ -65,5 +65,6 @@ AMBS:missing DOUBLEU$ chmod +x semester
 AMBS:missing DOUBLEU$ ./semester
 # 9
 AMBS:missing DOUBLEU$ date -r semester > last-modified.txt 
+# 10 I have Mac
 ```
 
