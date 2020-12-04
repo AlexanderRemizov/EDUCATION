@@ -1,3 +1,4 @@
+## Exercises
 <ol>
 For this course, you need to be using a Unix shell like Bash or ZSH. If you
 are on Linux or macOS, you don’t have to do anything special. If you are on
