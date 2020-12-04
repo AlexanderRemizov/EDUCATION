@@ -10,7 +10,7 @@
     A sample output would look like this
 
     
-```bash
+```console
      -rw-r--r--   1 user group 1.1M Jan 14 09:53 baz
  drwxr-xr-x   5 user group  160 Jan 14 09:53 .
      -rw-r--r--   1 user group  514 Jan 14 06:42 bar
@@ -23,7 +23,7 @@
 3. Say you have a command that fails rarely. In order to debug it you need to capture its output but it can be time consuming to get a failure run. Write a bash script that runs the following script until it fails and captures its standard output and error streams to files and prints everything at the end. Bonus points if you can also report how many runs it took for the script to fail.
 
 
-   ```bash
+   ```console
     #!/usr/bin/env bash
    
     n=$(( RANDOM % 100 ))
@@ -49,7 +49,7 @@
 
 ## Solution
 
-```bash
+```console
 # 1
 AMBS:tools_and_scripting DOUBLEU$ ls -Glath
 total 16
