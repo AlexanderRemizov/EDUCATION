@@ -1,6 +1,8 @@
 # EDUCATION
 
 ## Mathematics
+- [Mathematic and Python for data analysis](https://www.coursera.org/learn/algebra-lineynaya)
+[[certificate]](https://www.coursera.org/account/accomplishments/verify/3FH5XSHDN8ME)
 
 ## Machine learning
 - [Mathematic and Python for data analysis](https://www.coursera.org/learn/mathematics-and-python)
@@ -28,6 +30,7 @@
 - Improve Your English Communication Skills
 	- [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) [[certificate]](https://www.coursera.org/account/accomplishments/records/XHAF3HX5W3NE)
 	- [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome) [[certificate]](https://www.coursera.org/account/accomplishments/verify/9JT2N779CXXC)
+	- [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) [[certificate]](https://www.coursera.org/account/accomplishments/verify/BYERBGCBP734)
 
 ## Other
 - [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
