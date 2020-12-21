@@ -1,7 +1,7 @@
 # EDUCATION
 
 ## Mathematics
-- [Mathematic and Python for data analysis](https://www.coursera.org/learn/algebra-lineynaya)
+- [Linear Algebra](https://www.coursera.org/learn/algebra-lineynaya)
 [[certificate]](https://www.coursera.org/account/accomplishments/verify/3FH5XSHDN8ME)
 
 ## Machine learning
