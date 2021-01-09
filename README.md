@@ -15,6 +15,7 @@
 - Deep Learning (DeepLearning.AI)
 	- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) [[certificate]](https://www.coursera.org/account/accomplishments/records/4USNR33YMAPV)
 	- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) [[certificate]](https://www.coursera.org/account/accomplishments/records/6DGDWAWZS62B)
+	- [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) [[certificate]](https://www.coursera.org/account/accomplishments/verify/9MFRBABZK7AQ)
 - Youtube courses
 	- [Deep learning from CSC](https://www.youtube.com/watch?v=5l0e_Q0gpnc&list=PLlb7e2G7aSpT1ntsozWmWJ4kGUsUs141Y)
 	- [Deep learning from sim0nsays](https://www.youtube.com/watch?v=_q46x0tq2FQ&list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb)
@@ -26,6 +27,7 @@
 	- [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
 ## English
+
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment)
 - Improve Your English Communication Skills
 	- [Write Professional Emails in English](https://www.coursera.org/learn/professional-emails-english) [[certificate]](https://www.coursera.org/account/accomplishments/records/XHAF3HX5W3NE)
