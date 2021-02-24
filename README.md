@@ -35,5 +35,8 @@
 	- [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) [[certificate]](https://www.coursera.org/account/accomplishments/verify/BYERBGCBP734)
 
 ## Other
-- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
+- Git
+	- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
+	- https://www.youtube.com/watch?v=SEvR78OhGtw
 - [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
+- [Docker](https://www.youtube.com/watch?v=QF4ZF857m44&feature=youtu.be)
