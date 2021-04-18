@@ -3,6 +3,8 @@
 ## Mathematics
 - [Linear Algebra](https://www.coursera.org/learn/algebra-lineynaya)
 [[certificate]](https://www.coursera.org/account/accomplishments/verify/3FH5XSHDN8ME)
+- [Statistics I](https://stepik.org/course/76/syllabus)
+[[certificate]](https://stepik.org/cert/908781)
 
 ## Machine learning
 - [Mathematic and Python for data analysis](https://www.coursera.org/learn/mathematics-and-python)
@@ -34,9 +36,12 @@
 	- [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome) [[certificate]](https://www.coursera.org/account/accomplishments/verify/9JT2N779CXXC)
 	- [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) [[certificate]](https://www.coursera.org/account/accomplishments/verify/BYERBGCBP734)
 
-## Other
+## DevOps
 - Git
 	- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
 	- https://www.youtube.com/watch?v=SEvR78OhGtw
-- [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
+- [Jenkins](https://www.youtube.com/watch?v=cyb10iplv7U&list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)
 - [Docker](https://www.youtube.com/watch?v=QF4ZF857m44&feature=youtu.be)
+
+## Other
+- [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
