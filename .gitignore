@@ -3,3 +3,9 @@
 .dat
 .vscode
 .py[c]
+.cache
+.config
+.ipython
+.jupyter
+.local
+.bash_history
