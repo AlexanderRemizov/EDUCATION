@@ -1,0 +1,12 @@
+lol
+kek
+Traceback (most recent call last):
+  File "/Users/DOUBLEU/Documents/200K/EDUCATION/bash/youtube/script.py", line 3, in <module>
+    assert(1==0)
+AssertionError
+lol
+kek
+Traceback (most recent call last):
+  File "/Users/DOUBLEU/Documents/200K/EDUCATION/bash/youtube/script.py", line 3, in <module>
+    assert(1==0)
+AssertionError
