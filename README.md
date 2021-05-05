@@ -39,9 +39,11 @@
 ## DevOps
 - Git
 	- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
-	- https://www.youtube.com/watch?v=SEvR78OhGtw
+	- [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
 - [Jenkins](https://www.youtube.com/watch?v=cyb10iplv7U&list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)
-- [Docker](https://www.youtube.com/watch?v=QF4ZF857m44&feature=youtu.be)
+- Docker
+  - [Основы Docker. Большой практический выпуск](https://www.youtube.com/watch?v=QF4ZF857m44&feature=youtu.be)
+  - [Docker для Data Science](https://www.youtube.com/watch?v=ASPjBCk0xt0&list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m&index=1)
 
 ## Other
 - [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
