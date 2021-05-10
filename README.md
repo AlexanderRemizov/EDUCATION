@@ -44,6 +44,8 @@
 - Docker
   - [Основы Docker. Большой практический выпуск](https://www.youtube.com/watch?v=QF4ZF857m44&feature=youtu.be)
   - [Docker для Data Science](https://www.youtube.com/watch?v=ASPjBCk0xt0&list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m&index=1)
+- Linux
+	- [Линуксовые Фишечки](https://www.youtube.com/watch?v=bFxvXhvRkXc&list=PLQJ7ptkRY-xZ4qiXlmQQLgAPyXJhQ7HxZ)
 
 ## Other
 - [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
