@@ -24,6 +24,6 @@ docker-compose up --build - лучше так
 
 ### Пример docker-compose лежит в текущей директории
 
-
-
-http://127.0.0.1:8888/?token=a663cda5d0ff4f15e3004423a31aedf87a5d7f8c48
+### Запус приложения
+$ docker build -t my-python-app .
+$ docker run -it --rm --name my-running-app my-python-app
