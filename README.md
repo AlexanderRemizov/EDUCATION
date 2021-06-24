@@ -1,4 +1,4 @@
-# EDUCATION
+# EDUCATION_DS
 
 ## Mathematics
 - [Linear Algebra](https://www.coursera.org/learn/algebra-lineynaya)
