@@ -3,6 +3,8 @@
 ## Mathematics
 - [Linear Algebra](https://www.coursera.org/learn/algebra-lineynaya)
 [[certificate]](https://www.coursera.org/account/accomplishments/verify/3FH5XSHDN8ME)
+- [Probability Theory](https://www.coursera.org/learn/probability-theory-basics)
+[[certificate]](https://www.coursera.org/account/accomplishments/verify/D2F7S86MCJ6Y)
 - [Statistics I](https://stepik.org/course/76/syllabus)
 [[certificate]](https://stepik.org/cert/908781)
 
