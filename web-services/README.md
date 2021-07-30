@@ -1,0 +1,1 @@
+docker exec -it 6a268bdc6601 bash - go into container
