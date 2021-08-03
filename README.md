@@ -51,3 +51,5 @@
 
 ## Other
 - [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
+- [Web-service](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xYLEAC5Y_sKqrJ9RA-U7Dja)
+
