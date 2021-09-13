@@ -30,6 +30,10 @@
 	- [Clear Python](https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW)
 	- [Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 
+## Big Data
+
+- [Cassandra](https://www.youtube.com/playlist?list=PL2g2h-wyI4Sr8VeucrYcrPLK2zfOpr87o)
+
 ## English
 
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment)
@@ -38,7 +42,7 @@
 	- [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally/home/welcome) [[certificate]](https://www.coursera.org/account/accomplishments/verify/9JT2N779CXXC)
 	- [Build Your Professional ePortfolio in English](https://www.coursera.org/learn/eportfolio-english) [[certificate]](https://www.coursera.org/account/accomplishments/verify/BYERBGCBP734)
 
-## DevOps
+## MLOps 
 - Git
 	- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) [[certificate]](https://www.coursera.org/account/accomplishments/verify/WX9BW36V6A5R)
 	- [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw)
@@ -48,6 +52,7 @@
   - [Docker для Data Science](https://www.youtube.com/watch?v=ASPjBCk0xt0&list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m&index=1)
 - Linux
 	- [Линуксовые Фишечки](https://www.youtube.com/watch?v=bFxvXhvRkXc&list=PLQJ7ptkRY-xZ4qiXlmQQLgAPyXJhQ7HxZ)
+- [DVC](https://www.youtube.com/watch?v=h-ioXYurEJo&list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg&index=5)
 
 ## Other
 - [SQL](https://stepik.org/course/63054/syllabus) [[certificate]](https://stepik.org/cert/832923)
